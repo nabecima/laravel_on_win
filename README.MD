@@ -7,11 +7,11 @@ mysql 8.0.27
 1. リポジトリをクローンする。<br>
     SSH
     ```
-    git clone git@github.com:nabecima/laravel_on_m1mac.git
+    git clone git@github.com:nabecima/laravel_on_win.git
     ```
     HTTPS
     ```
-    git clone https://github.com/nabecima/laravel_on_m1mac.git
+    git clone https://github.com/nabecima/laravel_on_win.git
     ```
 
 3. 受講生から共有されたプロジェクトをクローンしたディレクトリ配下に移動させる(.zipはNG)
